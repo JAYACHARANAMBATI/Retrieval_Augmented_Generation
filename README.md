@@ -1,4 +1,4 @@
- Retrieval-Augmented Generation (RAG) System
+ **Retrieval-Augmented Generation (RAG) System**
 
 **Description**:
 This project is a RAG (Retrieval-Augmented Generation) system focused on providing information about the Diebold Nixdorf company. It uses web scraping, vector embeddings, and a language model to answer user queries based on real company data.
