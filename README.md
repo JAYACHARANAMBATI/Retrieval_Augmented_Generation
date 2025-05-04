@@ -3,7 +3,8 @@
 **Description**:
 This project is a RAG (Retrieval-Augmented Generation) system focused on providing information about the Diebold Nixdorf company. It uses web scraping, vector embeddings, and a language model to answer user queries based on real company data.
 
----
+---![WhatsApp Image 2025-05-02 at 17 26 27_ce1ce2a9](https://github.com/user-attachments/assets/09a8b4c7-9871-40da-ad95-2fa256cf980b)
+
 
 **Main Components**:
 
